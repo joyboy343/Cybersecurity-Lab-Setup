@@ -103,7 +103,7 @@ After bringing the connection back up, connectivity was restored — confirmed b
 
 A snapshot named **Initial Lab Setup** was taken once the base configuration (network, shared folder, clipboard, drag-and-drop) was complete, to preserve a clean rollback point.
 
-![VM Snapshot](screenshots/09-vm-snapshot.jpg)
+![VM Snapshot](screenshots/09-vm-snapshot.jpeg)
 **Figure 9 — VM snapshot:** The `Initial Lab Setup` snapshot is visible in the VirtualBox Manager for the `kali-linux-2026.2-virtualbox-amd64` VM.
 
 ## What I Learned
