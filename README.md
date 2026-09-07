@@ -118,9 +118,9 @@ This lab successfully sets up an isolated VirtualBox NAT Network environment wit
 
 ## Author
 
-**Karthik Raman Keerangudi Kalyanaraman**
-Cybersecurity Intern
-Network Walks B083
+**Karthik Raman Keerangudi Kalyanaraman** |
+Cybersecurity Intern |
+Network Walks B083 |
 LinkedIn: [www.linkedin.com/in/karthik-raman-k-k](https://www.linkedin.com/in/karthik-raman-k-k)
 
 ## Project Info
