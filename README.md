@@ -66,17 +66,17 @@ A ping test to `google.com` was run from the Kali terminal to confirm outbound i
 
 A shared folder was configured between the host and the Kali VM. Inside Kali it is mounted as `sf_Downloads`. To verify it, a test file (`test.txt`, containing `VirtualBox shared folder test`) was created and placed in the shared location.
 
-![Shared Folder Verification](screenshots/06-shared-folder.png)
+![Shared Folder Verification](screenshots/06-shared-clipboard.png)
 **Figure 6 — Shared folder test:** `test.txt` is visible and readable inside the Kali VM at `/media/sf_Downloads`, confirming the host-to-VM shared folder is working correctly.
 
 ## Clipboard & Drag-and-Drop
 
 Both Shared Clipboard and Drag-and-Drop were set to **Bidirectional** in the VM's General settings, allowing copy/paste and file transfer in both directions between host and guest.
 
-![Shared Clipboard Setting](screenshots/07-shared-clipboard.png)
+![Shared Clipboard Setting](screenshots/07-drag-and-drop.png)
 **Figure 7 — Shared Clipboard:** Set to **Bidirectional** in the VM's General settings.
 
-![Drag-and-Drop Setting](screenshots/08-drag-and-drop.png)
+![Drag-and-Drop Setting](screenshots/08-shared-folder.png)
 **Figure 8 — Drag-and-Drop:** Set to **Bidirectional** in the VM's General settings.
 
 ## Troubleshooting
