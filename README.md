@@ -12,7 +12,7 @@ The goal of this project was to build an isolated virtual lab environment that c
 |---|---|
 | CPU | AMD Ryzen 7 260 w/ Radeon 780M, 3.80 GHz |
 | RAM | 24 GB, 5600 MT/s |
-| Graphics | 8 GB (Windows reports multiple GPUs installed) |
+| Graphics | 8 GB |
 | Storage | 1 TB SSD |
 
 ## Tools & Technologies
